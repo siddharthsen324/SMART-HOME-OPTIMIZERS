@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/siddharthsen324/SMART-HOME-OPTIMIZERS/blob/d2ae6a8debd3c33f7313f3e003df2d8dfb0e75e4/WhatsApp%20Image%202026-01-09%20at%208.03.20%20PM.jpeg" />
 </div>
 
 # Run and deploy your AI Studio app
