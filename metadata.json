@@ -1,0 +1,7 @@
+{
+  "name": "Smart Home Optimizer",
+  "description": "An AI-powered space management and interior design app that uses Gemini to scan rooms, analyze furniture, and generate optimized layouts for small to medium-sized homes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
